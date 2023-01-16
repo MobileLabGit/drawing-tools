@@ -1,13 +1,13 @@
 # drawing-tools
 > Chartjs-Core
 
-https://github.com/MobileLabGit/drawing-tools/blob/main/dist-chartjs.zip
+https://github.com/MobileLabGit/drawing-tools/raw/main/dist-chartjs.zip
 
 <br/>
 
 > Chartjs-Docs
 
-https://github.com/MobileLabGit/drawing-tools/blob/main/docs-chartjs.zip
+https://github.com/MobileLabGit/drawing-tools/raw/main/docs-chartjs.zip
 
 <br/>
 
@@ -23,3 +23,9 @@ https://nodejs.org/dist/v18.13.0/node-v18.13.0-x64.msi
 
 
 https://code.visualstudio.com/docs/?dv=win
+
+
+Kendo
+
+## docs
+https://github.com/MobileLabGit/drawing-tools/raw/main/docs.zip
