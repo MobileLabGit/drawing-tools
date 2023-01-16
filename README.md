@@ -25,7 +25,15 @@ https://nodejs.org/dist/v18.13.0/node-v18.13.0-x64.msi
 https://code.visualstudio.com/docs/?dv=win
 
 
-Kendo
+<br/>
 
-## docs
+>### Kendo
+
+##### js
+https://github.com/MobileLabGit/drawing-tools/raw/main/js.zip
+
+##### Styles
+https://github.com/MobileLabGit/drawing-tools/raw/main/styles.zip
+
+##### Docs
 https://github.com/MobileLabGit/drawing-tools/raw/main/docs.zip
